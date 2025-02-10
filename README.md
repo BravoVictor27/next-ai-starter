@@ -1,6 +1,6 @@
 # 🚀 Next.js Modern Stack Template
 
-A Next.js template that combines commonly used tools and libraries for building full-stack web applications. This stack is specifically designed to be optimized for AI coding assistants like Cursor.
+A Next.js template that combines commonly used tools and libraries for building full-stack web applications. This stack is specifically designed to be optimized for AI coding assistants like Windsurf.
 
 ## 🎯 Overview
 
